@@ -7,7 +7,7 @@
 
 <p>Technical skills (Data/Computer Science): <br/> - Languages: C++, Java, Python (pandas, numpy, matplotlib) <br/> - Projects: To be Linked <br/> - Certificates: To be Linked </p></br></p>
 
-<p>Technical skills (Engineering): </br> - Tools: CAD, Basic Circuitry, Power Distribution, Structural/Mechanical Construction, Oscilloscope Functions </br> Projects: FIRST FRC Competition (State Qual.), VEX VRC Competition (World Qual.)</p>
+<p>Technical skills (Engineering): </br> - Tools: CAD, Basic Circuitry, Power Distribution, Structural/Mechanical Construction, Oscilloscope Functions </br> - Projects: FIRST FRC Competition (State Qual.), VEX VRC Competition (World Qual.)</p>
 
 <h2> 🤳 Connect with me:</h2>
 
