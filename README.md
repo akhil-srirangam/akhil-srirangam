@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 About Me:</h2>
 
-<p>Hello! I'm Akhil Srirangam, currently an Electrical Engineering Major @ UTD. I'm hoping to switch to Data Science soon, so visit frequently to see the projects I'll be adding soon! Besides sharpening technical skills and meeting with friends and family, I love to volunteer and stay updated with humanitarian issues. </p>
+<p>Hello! I'm Akhil Srirangam, currently a Data Science Major @ UTD! Visit frequently to see the projects I'll be adding soon! Besides sharpening technical skills and meeting with friends and family, I love to volunteer and stay updated with humanitarian issues. </p>
 
 <p>Technical skills (Data/Computer Science): <br/> - Languages: C++, Java, Python (pandas, numpy, matplotlib) <br/> - Projects: To be Linked <br/> - Certificates: To be Linked </p></br></p>
 
