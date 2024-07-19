@@ -5,7 +5,7 @@
 
 <p>Hello! I'm Akhil Srirangam, currently a Data Science Major @ UTD! Visit frequently to see the projects I'll be adding soon! Besides sharpening technical skills and meeting with friends and family, I love to volunteer and stay updated with humanitarian issues. </p>
 
-<p>Technical skills (Data/Computer Science): <br/> - Languages: C++, Java, Python (pandas, numpy, matplotlib) <br/> - Projects: To be Linked <br/> - Certificates: To be Linked </p></br></p>
+<p>Technical skills (Data/Computer Science): <br/> - Languages: C++, Java, Python (pandas, numpy, matplotlib) <br/> - Projects: To be Linked <br/> - Certificates: IDM Data Science Professional, (coming soon -> AWS Certified Cloud Practitioner) </p></br></p>
 
 <p>Technical skills (Engineering): </br> - Tools: CAD, Basic Circuitry, Power Distribution, Structural/Mechanical Construction, Oscilloscope Functions </br> - Projects: FIRST FRC Competition (State Qual.), VEX VRC Competition (World Qual.)</p>
 
