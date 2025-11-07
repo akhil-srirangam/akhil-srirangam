@@ -12,7 +12,7 @@
 <p>- Bond Investment Allocation - An algorithm that splits firm-tier bond investments into smaller partitions based on investment portfolio (risk,investment goals, etc.)</p>
 <p>- In-Progress Research: Researching segmentation of 3D abdominal organs using novel transfer-learning architecture between an MAE and U-Net </p>
 
-<p>Technical skills (Data/Computer Science): <br/> - Languages: C++, Java, Python (pandas, numpy, matplotlib), R, React <br/> - Projects: To be Linked <br/> - Certificates: IDM Data Science Professional, AWS Certified Cloud Practitioner </p></br></p>
+<p>Technical skills (Data/Computer Science): <br/> - Languages: C++, Java, Python (pandas, numpy, matplotlib), R, React <br/> - Projects: Check out my Hackathon projects, there's always going to be more! <br/> - Certificates: IDM Data Science Professional, AWS Certified Cloud Practitioner </p></br></p>
 
 <p>Technical skills (Engineering): </br> - Tools: CAD, Basic Circuitry, Power Distribution, Structural/Mechanical Construction, Oscilloscope Functions </br> - Projects: FIRST FRC Competition (State Qual.), VEX VRC Competition (World Qual.)</p>
 
